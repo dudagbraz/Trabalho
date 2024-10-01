@@ -1,0 +1,191 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background: #074281;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+}
+
+.product {
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 15px;
+    width: 300px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    text-align: center;
+}
+
+.product-image {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #e9ecef; /* Fundo suave */
+}
+
+header {
+    background: #044181; /* Azul */
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+}
+
+.product {
+    background: #ffffff; /* Branco */
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 15px;
+    width: 300px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    text-align: center;
+    transition: transform 0.2s; /* Animação ao passar o mouse */
+}
+
+.product:hover {
+    transform: scale(1.05); /* Aumenta um pouco ao passar o mouse */
+}
+
+.product-image {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+section {
+    margin: 20px 0;
+    padding: 15px;
+    background: #f8f9fa; /* Fundo claro */
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+h2 {
+    color: #044181; /* Azul para os títulos */
+}
+
+ul {
+    list-style-type: none; /* Remove marcadores da lista */
+    padding: 0;
+}
+
+ul li {
+    background: #e2e6ea; /* Fundo da lista */
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+}
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to right, #e9ecef, #f4f4f4); /* Gradiente suave */
+}
+
+header {
+    background: #044181; /* Azul */
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Sombra no cabeçalho */
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+}
+
+.product {
+    background: #ffffff; /* Branco */
+    border-radius: 10px;
+    margin: 15px;
+    padding: 20px;
+    width: 300px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    transition: transform 0.2s, box-shadow 0.2s; /* Animação ao passar o mouse */
+}
+
+.product:hover {
+    transform: scale(1.05); /* Aumenta ao passar o mouse */
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2); /* Sombra mais intensa */
+}
+
+.product-image {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+section {
+    margin: 20px 0;
+    padding: 20px;
+    background: #f8f9fa; /* Fundo claro */
+    border-radius: 10px;
+    border: 1px solid #ddd;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #044181; /* Azul para os títulos */
+    font-family: 'Arial Black', sans-serif; /* Fonte mais forte para títulos */
+}
+
+ul {
+    list-style-type: none; /* Remove marcadores da lista */
+    padding: 0;
+}
+
+ul li {
+    background: #e2e6ea; /* Fundo da lista */
+    margin: 5px 0;
+    padding: 15px;
+    border-radius: 5px;
+    transition: background 0.2s; /* Animação ao passar o mouse */
+}
+
+ul li:hover {
+    background: #d1d3d5; /* Efeito ao passar o mouse */
+}
+.social-icons {
+    margin-top: 10px;
+}
+
+.social-icons a {
+    color: #044181; /* Cor azul para os ícones */
+    margin: 0 10px;
+    font-size: 24px; /* Tamanho dos ícones */
+    transition: color 0.2s; /* Animação de cor ao passar o mouse */
+}
+
+.social-icons a:hover {
+    color: #044181; /* Cor ao passar o mouse */
+}
